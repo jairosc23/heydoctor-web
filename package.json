@@ -1,0 +1,11 @@
+{
+  "name": "heydoctor-web",
+  "version": "1.0.0",
+  "description": "Sitio web estático de HeyDoctor para deployment en Railway",
+  "scripts": {
+    "start": "serve -s public -l $PORT"
+  },
+  "dependencies": {
+    "serve": "14.2.1"
+  }
+}
