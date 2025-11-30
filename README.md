@@ -8,3 +8,8 @@ Todo el frontend se encuentra dentro de `/public`.
 
 ## Deployment
 Railway detecta automáticamente el puerto y ejecuta:
+
+npm start
+## Autor
+Dr. Jairo Santana Candelo  
+HeyDoctor | SAVAC MedTech LLC
